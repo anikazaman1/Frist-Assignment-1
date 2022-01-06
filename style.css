@@ -14,6 +14,13 @@ body{
     padding-left: 5%;
     width: 50%;
 }
+.white-color{
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
 .important-item{
     width: 40%;
     margin-left: 5%;
